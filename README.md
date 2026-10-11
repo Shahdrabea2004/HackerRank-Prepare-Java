@@ -18,20 +18,20 @@ Difficulty: 🟢 Easy | 🟡 Medium | 🔴 Hard
 ### Introduction (0/13)
 
 | # | Problem | Difficulty | Solution | Status |
-|---|---------|------------|----------|--------|
-| 1 | [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem) | 🟢 Easy | [WelcomeToJava.java](src/introduction/WelcomeToJava.java) | ✅      |
-| 2 | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | 🟢 Easy | [JavaStdinStdoutI.java](src/introduction/JavaStdinStdoutI.java) | ✅      |
-| 3 | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | 🟢 Easy | [JavaStdinStdoutII.java](src/introduction/JavaStdinStdoutII.java) | ✅      |
-| 4 | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | 🟢 Easy | [JavaIfElse.java](src/introduction/JavaIfElse.java) | ⏳      |
-| 5 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | 🟢 Easy | [JavaOutputFormatting.java](src/introduction/JavaOutputFormatting.java) | ⏳      |
-| 6 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | 🟢 Easy | [JavaLoopsI.java](src/introduction/JavaLoopsI.java) | ⏳      |
-| 7 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | 🟢 Easy | [JavaLoopsII.java](src/introduction/JavaLoopsII.java) | ⏳      |
-| 8 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | 🟢 Easy | [JavaDatatypes.java](src/introduction/JavaDatatypes.java) | ⏳      |
-| 9 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | 🟢 Easy | [JavaEndOfFile.java](src/introduction/JavaEndOfFile.java) | ⏳      |
-| 10 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | 🟢 Easy | [JavaStaticInitializerBlock.java](src/introduction/JavaStaticInitializerBlock.java) | ⏳      |
-| 11 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | 🟢 Easy | [JavaIntToString.java](src/introduction/JavaIntToString.java) | ⏳      |
-| 12 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | 🟢 Easy | [JavaDateAndTime.java](src/introduction/JavaDateAndTime.java) | ⏳      |
-| 13 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | 🟢 Easy | [JavaCurrencyFormatter.java](src/introduction/JavaCurrencyFormatter.java) | ⏳      |
+|---|---------|------------|----------|-------|
+| 1 | [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem) | 🟢 Easy | [WelcomeToJava.java](src/introduction/WelcomeToJava.java) | ✅     |
+| 2 | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | 🟢 Easy | [JavaStdinStdoutI.java](src/introduction/JavaStdinStdoutI.java) | ✅     |
+| 3 | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | 🟢 Easy | [JavaStdinStdoutII.java](src/introduction/JavaStdinStdoutII.java) | ✅     |
+| 4 | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | 🟢 Easy | [JavaIfElse.java](src/introduction/JavaIfElse.java) | ✅      |
+| 5 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | 🟢 Easy | [JavaOutputFormatting.java](src/introduction/JavaOutputFormatting.java) | ⏳     |
+| 6 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | 🟢 Easy | [JavaLoopsI.java](src/introduction/JavaLoopsI.java) | ⏳     |
+| 7 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | 🟢 Easy | [JavaLoopsII.java](src/introduction/JavaLoopsII.java) | ⏳     |
+| 8 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | 🟢 Easy | [JavaDatatypes.java](src/introduction/JavaDatatypes.java) | ⏳     |
+| 9 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | 🟢 Easy | [JavaEndOfFile.java](src/introduction/JavaEndOfFile.java) | ⏳     |
+| 10 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | 🟢 Easy | [JavaStaticInitializerBlock.java](src/introduction/JavaStaticInitializerBlock.java) | ⏳     |
+| 11 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | 🟢 Easy | [JavaIntToString.java](src/introduction/JavaIntToString.java) | ⏳     |
+| 12 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | 🟢 Easy | [JavaDateAndTime.java](src/introduction/JavaDateAndTime.java) | ⏳     |
+| 13 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem) | 🟢 Easy | [JavaCurrencyFormatter.java](src/introduction/JavaCurrencyFormatter.java) | ⏳     |
 
 ### Strings (0/11)
 
