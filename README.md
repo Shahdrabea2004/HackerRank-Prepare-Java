@@ -21,7 +21,7 @@ Difficulty: 🟢 Easy | 🟡 Medium | 🔴 Hard
 |---|---------|------------|----------|-----|
 | 1 | [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem) | 🟢 Easy | [WelcomeToJava.java](src/introduction/WelcomeToJava.java) | ✅ |
 | 2 | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | 🟢 Easy | [JavaStdinStdoutI.java](src/introduction/JavaStdinStdoutI.java) | ✅ |
-| 3 | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-and-stdout-2/problem) | 🟢 Easy | [JavaStdinStdoutII.java](src/introduction/JavaStdinStdoutII.java) | ⏳ |
+| 3 | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | 🟢 Easy | [JavaStdinStdoutII.java](src/introduction/JavaStdinStdoutII.java) | ⏳ |
 | 4 | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | 🟢 Easy | [JavaIfElse.java](src/introduction/JavaIfElse.java) | ⏳ |
 | 5 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | 🟢 Easy | [JavaOutputFormatting.java](src/introduction/JavaOutputFormatting.java) | ⏳ |
 | 6 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | 🟢 Easy | [JavaLoopsI.java](src/introduction/JavaLoopsI.java) | ⏳ |
