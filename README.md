@@ -4,10 +4,10 @@ This repository contains my solutions to HackerRank's Prepare Java challenges, d
 
 ## 🎯 Progress
 
-![Progress](https://img.shields.io/badge/Progress-0%25-brightgreen)
-![Solved](https://img.shields.io/badge/Solved-0%2F64-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-3.125%25-brightgreen)
+![Solved](https://img.shields.io/badge/Solved-2%2F64-brightgreen)
 
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **0%** (0 / 64)
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ **3.125%** (2 / 64)
 
 ✅ Done | ⏳ Wait
 
@@ -18,9 +18,9 @@ Difficulty: 🟢 Easy | 🟡 Medium | 🔴 Hard
 ### Introduction (0/13)
 
 | # | Problem | Difficulty | Solution | Status |
-|---|---------|------------|----------|-------|
+|---|---------|------------|----------|-----|
 | 1 | [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem) | 🟢 Easy | [WelcomeToJava.java](src/introduction/WelcomeToJava.java) | ✅ |
-| 2 | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | 🟢 Easy | [JavaStdinStdoutI.java](src/introduction/JavaStdinStdoutI.java) | ⏳ |
+| 2 | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | 🟢 Easy | [JavaStdinStdoutI.java](src/introduction/JavaStdinStdoutI.java) | ✅ |
 | 3 | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-and-stdout-2/problem) | 🟢 Easy | [JavaStdinStdoutII.java](src/introduction/JavaStdinStdoutII.java) | ⏳ |
 | 4 | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | 🟢 Easy | [JavaIfElse.java](src/introduction/JavaIfElse.java) | ⏳ |
 | 5 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem) | 🟢 Easy | [JavaOutputFormatting.java](src/introduction/JavaOutputFormatting.java) | ⏳ |
