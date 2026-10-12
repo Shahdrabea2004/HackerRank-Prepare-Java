@@ -8,15 +8,6 @@ import java.time.LocalDate;
  * Problem:
  * https://www.hackerrank.com/challenges/java-date-and-time/problem
  */
-class Result {
-    public static String findDay(int month, int day, int year) {
-        return LocalDate.of(year, month, day)
-                .getDayOfWeek()
-                .toString();
-    }
-
-}
-
 public class JavaDateAndTime {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
@@ -37,5 +28,14 @@ public class JavaDateAndTime {
 
         bufferedReader.close();
         bufferedWriter.close();
+    }
+
+    class Result {
+        public static String findDay(int month, int day, int year) {
+            return LocalDate.of(year, month, day)
+                    .getDayOfWeek()
+                    .toString();
+        }
+
     }
 }
